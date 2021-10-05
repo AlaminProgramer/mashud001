@@ -16,7 +16,7 @@
     "fastify": "^2.11.0",
     "fastify-cors": "^3.0.0",
     "fastify-multipart": "^1.0.4",
-    "fastify-static": "^2.5.1",
+    "fastify-static": "^4.2.4",
     "fs": "^0.0.1-security",
     "https": "^1.0.0",
     "lorem-ipsum": "^2.0.3",
